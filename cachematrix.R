@@ -1,14 +1,16 @@
-## Put comments here that give an overall description of what your
-## functions do
+## 
+##	R Programming Assignment 2
+##	Matt Behrens
+## 
 
-## Write a short comment describing this function
+## This function creates and calculates the Cache Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## This function creates and calculates the identity matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
